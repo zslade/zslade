@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @zslade
+- 👀 I’m interested in data linking, data ethics and the cosmos 
 
 <!---
 zslade/zslade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
